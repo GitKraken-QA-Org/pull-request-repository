@@ -8,3 +8,4 @@ auto-batch-50-3
 auto-batch-50-4
 auto-batch-50-5
 auto-batch-50-6
+auto-batch-50-7
